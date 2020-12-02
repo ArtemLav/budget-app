@@ -1,6 +1,6 @@
 # Budget App
 
-You can checkout working demo [here]("https://artemlav.github.io/budget-app/")
+You can checkout working demo [here](https://artemlav.github.io/budget-app/)
 
 ## Technologies used
 
